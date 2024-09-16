@@ -7,7 +7,7 @@ This repository contains the implementation of SOMSD and some of the datasets pr
 ![image](https://github.com/user-attachments/assets/c94a28dc-cd6e-4143-8ac3-fbae0d5425bc)
 
 
-Other articles were SOMSD was used
+Other articles where SOMSD was used
 
 > Hagenbuchner M, Tsoi AC. A supervised training algorithm for self-organizing maps for structures. Pattern Recognition Letters. 2005 Sep.
 
